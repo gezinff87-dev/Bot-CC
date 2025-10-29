@@ -80,7 +80,7 @@ def gerar_cc_educacional():
     
     return {
         'numero': cartao_teste['numero'],
-        'mes': mes,ephemeral 
+        'mes': mes,
         'ano': ano,
         'cvv': cvv,
         'bandeira': cartao_teste['bandeira'],
